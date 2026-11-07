@@ -20,3 +20,6 @@ I'm a Computer Science student with a minor in education, and I teach Informatio
 
 ### Just curious about
 C64 Assembly and COBOL. Old technology is a great way to understand how modern computing got where it is. 
+
+### 🧑‍🏫 Oppilaille
+WebResources repositoriosta löytyy linkit hyödyllisille sivustoille, joista saa materiaaleja ja sisältöä omiin projekteihin. Sinne on myös kerätty oppaita, joita kannattaa käyttää opiskelun tukena. Kyseisen repositorion Wiki-sivulle kerään yhteen nippuun kaikki ne repositoriot, joita voi hyödyntää tehtävien teossa.
